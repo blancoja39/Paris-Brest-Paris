@@ -1,4 +1,4 @@
-<header>
+<Paris-Brest-Paris>
 
 <!--
   <<< Author notes: Course header >>>
